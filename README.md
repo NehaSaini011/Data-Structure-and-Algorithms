@@ -19,3 +19,10 @@ if (ch >= 'A' && ch <= 'Z') {
     System.out.println("Digit");
 }
 ```
+
+
+In Java, you cannot compare strings using == or !=.
+
+== compares references (memory addresses), not actual content.
+
+To compare the contents of strings, you need .equals().
