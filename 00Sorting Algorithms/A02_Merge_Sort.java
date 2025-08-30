@@ -1,3 +1,5 @@
+// Given an array of integers nums, sort the array in ascending order and return it.
+// You must solve the problem without using any built-in functions in O(nlog(n)) time complexity and with the smallest space complexity possible.
 public class A02_Merge_Sort {
     class Solution {
         public void merge(int nums[],int left,int mid,int right){
