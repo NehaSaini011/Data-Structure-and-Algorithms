@@ -1,4 +1,6 @@
-public class A01_Remove_Dublicates_from_sortedList {
+// Given the head of a sorted linked list, delete all duplicates such that each element appears only once. Return the linked list sorted as well.
+
+public class A01_Remove_Duplicates_from_sortedList {
     
 //   Definition for singly-linked list.
   public class ListNode {
