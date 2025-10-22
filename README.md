@@ -14,5 +14,5 @@ Different data structures suit different problems — for instance, arrays are g
 Choosing the right data structure helps improve performance and makes the code cleaner.
 
 ## Difference between coding and programming
-Coding means writing code — the actual instructions in a programming language (like Python, Java, or C++) that tell the computer what to do./
-Programming means solving a problem using code — it includes not just coding, but also thinking, planning, designing, debugging, and testing.
+**Coding** means writing code — the actual instructions in a programming language (like Python, Java, or C++) that tell the computer what to do.    
+**Programming** means solving a problem using code — it includes not just coding, but also thinking, planning, designing, debugging, and testing.
